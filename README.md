@@ -1,0 +1,1 @@
+ini dalam beta tester
