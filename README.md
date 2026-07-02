@@ -1,5 +1,9 @@
 kalo ketemu bug silahkan laporkan ya
 link download ada di bawah ini
-link : https://www.mediafire.com/file/q6qejyzg87f39vh/app-release.apk/file
-note : Sorry banget aga nyusahin kena limit github, untuk kalian yang ingin sebar luaskan saya persilahkan utamakan link github saya ya😊
+link : https://www.mediafire.com/file/zie4w60nwifga93/app-release.apk/file
+note : sudah versi terbaru 
+
+
+
+
 Create By IndevXxX
