@@ -11,7 +11,7 @@ VCore Pawn Code adalah editor Pawn untuk Android yang dibuat khusus untuk pengem
 - Mendukung file .pwn, .inc, dan .p
 
 ## Download APK
-https://www.mediafire.com/file/wedlp7zdb2oxi5p/app-release.apk/file
+https://www.mediafire.com/file/6g8bo43se4lnkem/app-release.apk/file
 
 ## Discord
 https://discord.gg/pA6R2HY3TR
@@ -21,6 +21,12 @@ Jika menemukan bug atau mengalami masalah, silakan laporkan melalui Discord.
 
 ## Keywords
 Pawn, SA:MP, open.mp, Android, Code Editor, VCore, VCore Pawn Code, Pawn Editor, Mobile IDE.
+
+## Yang sudah fix
+- fix error 404 & 403 di beberapa provider
+- renew base URL
+- add copy teks
+- optimasi script 
 
 ---
 Create by IndevXxX
