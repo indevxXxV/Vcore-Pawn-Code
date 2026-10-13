@@ -14,7 +14,7 @@ VCore Pawn Code adalah editor Pawn untuk Android yang dibuat khusus untuk pengem
 https://www.mediafire.com/file/8peuxxabx6r7mr7/app-release.apk/file
 
 ## Download APK CLI 
-coming soon
+https://www.mediafire.com/file/cpbgk43a59pm8ou/app-release.apk/file
 
 ## Discord
 https://discord.gg/pA6R2HY3TR
