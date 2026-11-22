@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/indevxXxV/Vcore-Pawn-Code@main/assets/vcore-banner.png" width="420" alt="VCORE Pawn Code Banner">
 </p>
@@ -87,7 +86,6 @@ If you find a bug or have any suggestions, feel free to share them on Discord.
 ---
 
 <p align="center">
-  <b>VCore Pawn Code</b>
-  <br>
+  <b>VCore Pawn Code</b><br>
   Android Pawn Editor for SA-MP and open.mp
 </p>
