@@ -1,24 +1,3 @@
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/indevxXxV/Vcore-Pawn-Code@main/assets/vcore-banner.png" width="420" alt="VCORE Pawn Code Banner">
-</p>
-
-<h1 align="center">VCore Pawn Code</h1>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/indevxXxV/Vcore-Pawn-Code@main/assets/vcore-logo.png" width="130" alt="VCORE Logo">
-</p>
-
-<p align="center">
-  Android Pawn Editor for SA-MP and open.mp
-</p>
-
-<p align="center">
-  🇮🇩 <a href="#bahasa-indonesia">Bahasa Indonesia</a> |
-  🇬🇧 <a href="#english">English</a>
-</p>
-
----
-
 ## 🇮🇩 Bahasa Indonesia
 
 ### Tentang
